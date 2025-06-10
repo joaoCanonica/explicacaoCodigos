@@ -296,3 +296,37 @@ Quando Usar Essa Stack?
 ✅ Aplicações modernas e rápidas.
 ✅ Projetos que precisam de tipagem (TypeScript).
 ✅ Equipes que valorizam produtividade (Tailwind + shadcn-ui).
+
+
+
+
+
+
+
+
+O projeto utiliza as seguintes linguagens e tecnologias, com base nas extensões de arquivos:
+
+TypeScript/React (.tsx) – 67 arquivos
+
+TypeScript (.ts) – 7 arquivos
+
+JSON (.json) – 6 arquivos
+
+JavaScript (.js) – 2 arquivos
+
+CSS (.css) – 2 arquivos
+
+HTML (.html) – 1 arquivo
+
+Também há arquivos auxiliares como .md, .lockb, .ico, .svg, e .txt.
+
+Conclusão: o projeto é majoritariamente desenvolvido em React com TypeScript. 
+
+
+
+
+
+
+
+
+
