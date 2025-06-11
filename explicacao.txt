@@ -299,23 +299,49 @@ Quando Usar Essa Stack?
 
 
 
+
+
+
+
+
+
+
+
+
+
 O projeto utiliza as seguintes linguagens e tecnologias, com base nas extensões de arquivos:
 
-TypeScript/React (.tsx) – 67 arquivos
-
-TypeScript (.ts) – 7 arquivos
-
-JSON (.json) – 6 arquivos
-
+TypeScript/React (.tsx) – 67 arquivos - .ts: Usado para arquivos lógicos (funções, utilitários, validações).
+.tsx: Usado para componentes React com suporte a JSX.
+Vite - Desenvolvimento front end
+TypeScript (extensão do java) (.ts) – 7 arquivos
+React - biblioteca de javaScript
+JSON (.json) – 6 arquivos - package.json: Define dependências, scripts e metadados do projeto.
+tsconfig.json: Configurações do compilador TypeScript.
+Tailwind CSS - é um framework CSS utilitário que fornece classes prontas para estilização.
 JavaScript (.js) – 2 arquivos
-
-CSS (.css) – 2 arquivos
-
-HTML (.html) – 1 arquivo
-
+CSS(estilização do site)  (.css) – 2 arquivos
+HTML (fundação do site)  (.html) – 1 arquivo - Arquivo único, provavelmente index.html, que serve de base para o Vite injetar o React.
+JavaScript (.js)
+Presente em poucos arquivos.
+Pode ser usado para scripts auxiliares ou bibliotecas que não exigem tipagem.
+Não é a linguagem principal aqui, mas pode existir por dependência de pacotes ou compatibilidade.
 Também há arquivos auxiliares como .md, .lockb, .ico, .svg, e .txt.
+hadCN/UI
+Conjunto de componentes React com estilização via Tailwind e baseados em Radix UI.
+Usado para criar componentes acessíveis e bonitos rapidamente.
+Componente chart.tsx sugere uso de bibliotecas como Recharts, Chart.js ou similar.
+
 
 Conclusão: o projeto é majoritariamente desenvolvido em React com TypeScript. 
+
+
+
+
+
+
+
+
 
 
 
