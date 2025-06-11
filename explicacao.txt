@@ -323,7 +323,9 @@ JavaScript (.js) – 2 arquivos
 CSS(estilização do site)  (.css) – 2 arquivos
 HTML (fundação do site)  (.html) – 1 arquivo - Arquivo único, provavelmente index.html, que serve de base para o Vite injetar o React.
 JavaScript (.js)
-Presente em poucos arquivos.
+
+
+
 Pode ser usado para scripts auxiliares ou bibliotecas que não exigem tipagem.
 Não é a linguagem principal aqui, mas pode existir por dependência de pacotes ou compatibilidade.
 Também há arquivos auxiliares como .md, .lockb, .ico, .svg, e .txt.
